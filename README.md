@@ -12,7 +12,7 @@
   💞️ I’m looking to collaborate with other content creators
   </li>
 <li>
-📫 Visit My portfolio website - https://souravwebart.tech/
+📫 Visit My portfolio website - https://souravwebart.in/
   </li>
   </ul>
 
