@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Gupta</h1>
 <h3 align="center">I am a full-stack web developer, Wordpress Developer and Search Engine Optimization (SEO) Enthusiast!.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souravwebart&label=Profile%20views&color=0e75b6&style=flat" alt="souravwebart" /> </p>
-
 - 🔭 I’m currently working on [Thumbstack Technologies Pvt Ltd](http://thumbstack.in/)
 
 - 🌱 I’m currently learning **Advanced javasript frontend framework with backend.**
