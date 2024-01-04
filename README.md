@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Gupta</h1>
 <h3 align="center">I am a full-stack web developer, Wordpress Developer and Search Engine Optimization (SEO) Enthusiast!.</h3>
 
-- 🔭 I’m currently working on Explorogent Internation Services Private Limited.
+- 🔭 I’m currently working on Explorogent International Services Private Limited.
 
 - 🌱 I’m currently learning **Advanced javasript frontend framework with backend.**
 
